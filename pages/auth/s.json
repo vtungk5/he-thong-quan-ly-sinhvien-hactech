@@ -1,0 +1,4385 @@
+{
+    "_id": "66b19fc1322b6f02d433a6d7",
+    "highschool_grad_year": 2023,
+    "birthday": "2005-06-14T17:00:00.000Z",
+    "place_of_birth": "Thành phố Hải Phòng",
+    "gender": "1",
+    "phone": "0986379490",
+    "email": "vtung15062005@gmail.com",
+    "ethnic": "Kinh",
+    "hometown_detail": {
+        "province": "Thành phố Hải Phòng",
+        "ward": "Xã Tứ Kỳ",
+        "district": "",
+        "home": "Số 403 La Tỉnh Nam"
+    },
+    "address_detail": {
+        "province": "Thành phố Hải Phòng",
+        "ward": "Xã Tứ Kỳ",
+        "district": "",
+        "home": "Số 403 La Tỉnh Nam"
+    },
+    "student_bank": {
+        "bank_name": {
+            "short_name": "Vietcombank"
+        },
+        "account_name": "VUONG THANH TUNG",
+        "account_number": "9986379490"
+    },
+    "identified_number": "030205003801",
+    "health_insurance_number": "GD4303021509204",
+    "relationships": [
+        {
+            "fullname": "Vương Văn Hòa",
+            "phone": [
+                "0979817778"
+            ],
+            "birthyear": "",
+            "career": ""
+        },
+        {
+            "fullname": "Trần Thị Đính",
+            "phone": [
+                "0987975198"
+            ],
+            "birthyear": "",
+            "career": ""
+        }
+    ],
+    "high_school": "Trung tâm GDNN - GDTX huyện Tứ Kỳ",
+    "hometown": "Số 403 La Tỉnh Nam, Xã Tứ Kỳ, Thành phố Hải Phòng",
+    "address": "Số 403 La Tỉnh Nam, Xã Tứ Kỳ, Thành phố Hải Phòng",
+    "firstname": "Vương Thanh",
+    "lastname": "Tùng",
+    "courseId": "65f27340de525c0cfc5b09cd",
+    "course": {
+        "_id": "65f27340de525c0cfc5b09cd",
+        "code": "K16",
+        "name": "Khóa 16",
+        "start_year": 2024,
+        "end_year": 2027,
+        "settings": {
+            "enrollment": {
+                "type": "BOTH_ASPIRATIONS_IN_BATCH",
+                "method": "BY_TARGET_SCORE"
+            },
+            "student": {
+                "code": {
+                    "input": "AUTO_GENERATE",
+                    "rules": {
+                        "length": 8,
+                        "start_with": "CD"
+                    }
+                },
+                "divide_occupation": {
+                    "type": "FROM_BEGINNING"
+                }
+            },
+            "occupations": [
+                {
+                    "occupationId": "5cb98222ab971b0a48a114fa",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a114fb",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a114fd",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a114fe",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a114ff",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11500",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11501",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11502",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11503",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        },
+                        {
+                            "type": "HIGH_QUALITY",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11504",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11505",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11506",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11507",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11508",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        },
+                        {
+                            "type": "HIGH_QUALITY",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a11509",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5cb98222ab971b0a48a1150a",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "5f362155ea3fd10dd8a5f30e",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "604acdd198ff751978447f8a",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "TESTING",
+                                "PROJECT"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "6464950981bffb0364e3571b",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "65f27586de525c0cfc5b0a61",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "occupationId": "66174d10aa32571a0065da45",
+                    "training_types": [
+                        {
+                            "type": "NORMAL",
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "time_display_admission_result": [
+                {
+                    "start_time": "2024-07-20T09:15:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 1
+                },
+                {
+                    "start_time": "2024-07-23T10:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 2
+                },
+                {
+                    "start_time": "2024-07-26T10:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 3
+                },
+                {
+                    "start_time": "2024-07-29T22:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 4
+                },
+                {
+                    "start_time": "2024-08-02T22:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 5
+                },
+                {
+                    "start_time": "2024-08-07T09:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 6
+                },
+                {
+                    "start_time": "2024-08-14T10:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 7
+                },
+                {
+                    "start_time": "2024-08-17T09:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 8
+                },
+                {
+                    "start_time": "2024-08-20T08:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 9
+                },
+                {
+                    "start_time": "2024-08-23T09:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 10
+                },
+                {
+                    "start_time": "2024-08-27T09:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 11
+                },
+                {
+                    "start_time": "2024-08-30T04:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 12
+                },
+                {
+                    "start_time": "2024-09-04T09:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 13
+                },
+                {
+                    "start_time": "2024-09-06T09:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 14
+                },
+                {
+                    "start_time": "2024-09-10T09:00:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 15
+                },
+                {
+                    "start_time": "2024-09-13T03:30:00Z",
+                    "end_time": "2024-09-30T16:59:00Z",
+                    "batch": 16
+                },
+                {
+                    "start_time": "2024-09-23T09:15:00Z",
+                    "end_time": "2024-09-23T16:59:00Z",
+                    "batch": 17
+                }
+            ]
+        },
+        "created_at": "2024-03-14T03:47:12.297Z",
+        "updated_at": "2025-01-02T08:43:28.763Z"
+    },
+    "code": "CD240103",
+    "area": "",
+    "specifiedClassId": "669e0d7ec516710a840a8c1f",
+    "basicClassId": null,
+    "type": "1",
+    "status": 1,
+    "student_email": "tung.240103@student.hactech.edu.vn",
+    "created_at": "2024-08-06T04:00:01.405Z",
+    "updated_at": "2025-10-10T10:00:00.907Z",
+    "specifiedClass": {
+        "_id": "669e0d7ec516710a840a8c1f",
+        "code": "LTMT 1 K16",
+        "name": "LTMT 1 K16",
+        "teacher_name": "Nguyễn Thị Thu Hằng",
+        "teacher_phone": "0969.147.240",
+        "trainingPlan": {
+            "_id": "65fd2ed58f25010a3889785d",
+            "code": "LTMT K16",
+            "name": "LTMT K16",
+            "type": "1",
+            "courseId": "65f27340de525c0cfc5b09cd",
+            "instituteId": "5cb9821329f616087842edac",
+            "subjects": [
+                {
+                    "_id": "5cb98232ed43ae077c65a206",
+                    "code": "LMH23",
+                    "name": "Anh văn chuyên ngành 2",
+                    "theoretical_value": 2,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 0,
+                    "type": "1",
+                    "semester_index": 4,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "short_name": "Anh văn chuyên ngành 2",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.639Z",
+                        "updated_at": "2025-05-08T10:46:15.288Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a202",
+                    "code": "LMH19",
+                    "name": "Cấu trúc dữ liệu và giải thuật",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 4,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a20f",
+                    "code": "LMH32",
+                    "name": "Lập trình PHP",
+                    "theoretical_value": 2,
+                    "practical_value": 2,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 60,
+                    "type": "1",
+                    "semester_index": 4,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a204",
+                    "code": "LMH21",
+                    "name": "Lập trình C#",
+                    "theoretical_value": 2,
+                    "practical_value": 2,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 60,
+                    "type": "1",
+                    "semester_index": 4,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a20a",
+                    "code": "LMH27",
+                    "name": "Phân tích thiết kế hệ thống",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 4,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "63e5af3500202010b40a7abe",
+                    "code": "LMH41",
+                    "name": "Bảo trì hệ thống máy tính",
+                    "short_name": "Bảo trì hệ thống máy chủ",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "semester_index": 4,
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1ff",
+                    "code": "LMH16",
+                    "name": "Anh văn chuyên ngành 1",
+                    "theoretical_value": 2,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 0,
+                    "type": "1",
+                    "semester_index": 3,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "short_name": "Anh văn chuyên ngành 1",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.639Z",
+                        "updated_at": "2025-05-08T10:46:15.288Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a200",
+                    "code": "LMH17",
+                    "name": "Kỹ thuật lập trình",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 3,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a205",
+                    "code": "LMH22",
+                    "name": "Thực tập nhận thức",
+                    "theoretical_value": 0,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 0,
+                    "num_practical_lessons": 45,
+                    "type": "1",
+                    "semester_index": 3,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 45
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_FIRST_TURN",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a203",
+                    "code": "LMH20",
+                    "name": "Lập trình hướng đối tượng",
+                    "theoretical_value": 2,
+                    "practical_value": 2,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 60,
+                    "type": "1",
+                    "semester_index": 3,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1fe",
+                    "code": "LMH15",
+                    "name": "Cơ sở dữ liệu",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 3,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a209",
+                    "code": "LMH26",
+                    "name": "Nhập môn công nghệ phần mềm",
+                    "theoretical_value": 2,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 0,
+                    "type": "1",
+                    "semester_index": 3,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5f87ccaf58a2c401b05dfa46",
+                    "code": "MH0006",
+                    "name": "Giáo dục An ninh - Quốc phòng",
+                    "short_name": "Giáo dục An ninh - Quốc phòng",
+                    "theoretical_value": 4,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 60,
+                    "num_practical_lessons": 0,
+                    "type": "0",
+                    "occupationId": null,
+                    "semester_index": 1,
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2021-02-01T04:40:30.054Z",
+                        "updated_at": "2021-02-01T04:40:30.054Z"
+                    },
+                    "occupation": {},
+                    "score_formula": {
+                        "type": "0",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": true
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "TEXT",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "TEXT",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "TEXT",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "TEXT"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "631808819195b80c30a59dbf",
+                    "code": "LMH40",
+                    "name": "Xây dựng Website",
+                    "short_name": "Xây dựng Website",
+                    "theoretical_value": 2,
+                    "practical_value": 2,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 60,
+                    "type": "1",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "semester_index": 2,
+                    "check_fee_when_enter_score": true,
+                    "can_register": false,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "6445f85535dc2908dc3f100e",
+                    "code": "MH00007",
+                    "name": "Giáo dục thể chất",
+                    "short_name": "Giáo dục thể chất",
+                    "theoretical_value": 0,
+                    "practical_value": 2,
+                    "num_theoretical_lessons": 0,
+                    "num_practical_lessons": 60,
+                    "type": "0",
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "occupationId": null,
+                    "semester_index": 2,
+                    "can_register": false,
+                    "check_fee_when_enter_score": true,
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2021-02-01T04:40:30.054Z",
+                        "updated_at": "2021-02-01T04:40:30.054Z"
+                    },
+                    "score_formula": {
+                        "type": "0",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": true
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "TEXT",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "TEXT",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "TEXT",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "TEXT"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1cf",
+                    "code": "MH01",
+                    "name": "Chính trị",
+                    "theoretical_value": 5,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 75,
+                    "num_practical_lessons": 0,
+                    "type": "1",
+                    "semester_index": 2,
+                    "occupationId": null,
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "short_name": "Chính trị",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2021-02-01T04:40:30.054Z",
+                        "updated_at": "2021-02-01T04:40:30.054Z"
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1d0",
+                    "code": "MH02",
+                    "name": "Pháp luật",
+                    "theoretical_value": 2,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 0,
+                    "type": "1",
+                    "semester_index": 1,
+                    "occupationId": null,
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "short_name": "Pháp luật",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2021-02-01T04:40:30.054Z",
+                        "updated_at": "2021-02-01T04:40:30.054Z"
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1d1",
+                    "code": "MH03",
+                    "name": "Toán cao cấp",
+                    "theoretical_value": 3,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 45,
+                    "num_practical_lessons": 0,
+                    "type": "1",
+                    "semester_index": 1,
+                    "occupationId": null,
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "short_name": "Toán cao cấp",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2021-02-01T04:40:30.054Z",
+                        "updated_at": "2021-02-01T04:40:30.054Z"
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1d2",
+                    "code": "MH04",
+                    "name": "Tin học căn bản",
+                    "theoretical_value": 1,
+                    "practical_value": 2,
+                    "num_theoretical_lessons": 15,
+                    "num_practical_lessons": 60,
+                    "type": "1",
+                    "semester_index": 1,
+                    "occupationId": null,
+                    "instituteId": "5cb9821329f616087842edac",
+                    "short_name": "Tin học căn bản",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1d3",
+                    "code": "MH05",
+                    "name": "Anh văn 1",
+                    "theoretical_value": 4,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 60,
+                    "num_practical_lessons": 0,
+                    "type": "1",
+                    "semester_index": 1,
+                    "occupationId": null,
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "short_name": "Anh văn 1",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2021-02-01T04:40:30.054Z",
+                        "updated_at": "2021-02-01T04:40:30.054Z"
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1f7",
+                    "code": "LMH08",
+                    "name": "Anh văn 2",
+                    "theoretical_value": 4,
+                    "practical_value": 0,
+                    "num_theoretical_lessons": 60,
+                    "num_practical_lessons": 0,
+                    "type": "1",
+                    "semester_index": 2,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edaf",
+                    "short_name": "Anh văn 2",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edaf",
+                        "code": "KKTGDDC",
+                        "name": "Khoa Kinh Tế & Giáo Dục Đại Cương",
+                        "active": true,
+                        "created_at": "2021-02-01T04:40:30.054Z",
+                        "updated_at": "2021-02-01T04:40:30.054Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1f9",
+                    "code": "LMH10",
+                    "name": "Cấu trúc máy tính",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 1,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1fa",
+                    "code": "LMH11",
+                    "name": "Lập trình căn bản",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 2,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1f8",
+                    "code": "LMH09",
+                    "name": "Đồ họa ứng dụng",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 1,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a1fc",
+                    "code": "LMH13",
+                    "name": "Nhập môn mạng máy tính",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 2,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a207",
+                    "code": "LMH24",
+                    "name": "HQT cơ sở dữ liệu SQL-Server",
+                    "theoretical_value": 2,
+                    "practical_value": 2,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 60,
+                    "type": "1",
+                    "semester_index": 2,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "5cb98232ed43ae077c65a20e",
+                    "code": "LMH31",
+                    "name": "Kỹ năng mềm (MĐ)",
+                    "theoretical_value": 2,
+                    "practical_value": 1,
+                    "num_theoretical_lessons": 30,
+                    "num_practical_lessons": 30,
+                    "type": "1",
+                    "semester_index": 1,
+                    "occupationId": "5cb98222ab971b0a48a114fc",
+                    "instituteId": "5cb9821329f616087842edac",
+                    "institute": {
+                        "_id": "5cb9821329f616087842edac",
+                        "code": "KCNTT",
+                        "name": "Khoa Công Nghệ Thông Tin",
+                        "active": true,
+                        "created_at": "2019-04-19T08:08:51.502Z",
+                        "updated_at": "2019-04-19T08:08:51.505Z"
+                    },
+                    "occupation": {
+                        "_id": "5cb98222ab971b0a48a114fc",
+                        "code": "LTMT",
+                        "name": "Nghề Lập trình máy tính",
+                        "active": true,
+                        "instituteId": "5cb9821329f616087842edac",
+                        "created_at": "2019-04-19T08:09:06.319Z",
+                        "updated_at": "2019-07-02T01:41:13.516Z",
+                        "settings": {
+                            "graduation_methods": [
+                                "PROJECT",
+                                "TESTING"
+                            ],
+                            "training_types": [
+                                "NORMAL"
+                            ]
+                        }
+                    },
+                    "score_formula": {
+                        "type": "1",
+                        "can_improve_score": false,
+                        "passed_condition": {
+                            "theory": 5,
+                            "practice": 5
+                        },
+                        "certificate": {
+                            "local": {
+                                "providable": false,
+                                "certificate_key": null,
+                                "required_register_for_graduation": false,
+                                "condition": {
+                                    "theory": 5,
+                                    "practice": 5,
+                                    "avgscore": 5
+                                },
+                                "effect_calc_final_score": {
+                                    "type": "APPLY_NORMAL_FINAL_SCORE_FORMULA"
+                                }
+                            },
+                            "external": {
+                                "acceptable": false
+                            }
+                        },
+                        "reverse_score": {
+                            "theory": {
+                                "value": true,
+                                "expired_time": null
+                            },
+                            "practice": {
+                                "value": true,
+                                "expired_time": null
+                            }
+                        },
+                        "lesson2value_ratio": {
+                            "theory": 15,
+                            "practice": 30
+                        },
+                        "firststudy_lectureclass": {
+                            "type": "RATIO_WITH_MID_TERM_SCORE",
+                            "options": {
+                                "first_turn_percent": 20,
+                                "latest_turn_percent": 80,
+                                "mid_term_first_turn_percent": 30,
+                                "final_first_turn_percent": 70,
+                                "mid_term_second_turn_percent": 30,
+                                "final_second_turn_percent": 70
+                            },
+                            "round": {
+                                "type": "ROUNDED",
+                                "decimal_length": 0
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "studyagain_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "retesting_lectureclass": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC",
+                            "max_testing_turn": {
+                                "theory": 2,
+                                "practice": 1
+                            },
+                            "test_methods": [
+                                "TESTING"
+                            ]
+                        },
+                        "final_score": {
+                            "type": "HIGHEST",
+                            "round": {
+                                "type": "NOT_ROUND",
+                                "decimal_length": 1
+                            },
+                            "format": "NUMERIC"
+                        },
+                        "register_studyagain": {
+                            "student_types": [
+                                "1",
+                                "2",
+                                "3"
+                            ]
+                        }
+                    }
+                }
+            ],
+            "occupationId": "5cb98222ab971b0a48a114fc",
+            "created_at": "2024-03-22T07:10:13.645Z",
+            "updated_at": "2026-01-14T08:29:17.414Z",
+            "training_type": "NORMAL"
+        },
+        "occupation": {
+            "_id": "5cb98222ab971b0a48a114fc",
+            "code": "LTMT",
+            "name": "Nghề Lập trình máy tính",
+            "active": true,
+            "instituteId": "5cb9821329f616087842edac",
+            "created_at": "2019-04-19T08:09:06.319Z",
+            "updated_at": "2019-07-02T01:41:13.516Z",
+            "settings": {
+                "graduation_methods": [
+                    "PROJECT",
+                    "TESTING"
+                ],
+                "training_types": [
+                    "NORMAL"
+                ]
+            }
+        }
+    },
+    "basicClass": {
+        "trainingPlan": {}
+    },
+    "degree": {},
+    "graduateProjectCondition": {}
+}
